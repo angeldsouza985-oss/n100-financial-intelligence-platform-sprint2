@@ -1,0 +1,3 @@
+rule_id,severity,message
+DQ-02,CRITICAL,Duplicate company-year
+DQ-03,WARNING,8 invalid company ids found
