@@ -13,6 +13,10 @@ def query(sql):
     return df
 
 
+# ==========================================
+# Financial Ratios
+# ==========================================
+
 def get_ratios(year=None):
 
     sql = "SELECT * FROM financial_ratios"
@@ -23,6 +27,10 @@ def get_ratios(year=None):
     return query(sql)
 
 
+# ==========================================
+# Sectors
+# ==========================================
+
 def get_sectors():
 
     return query("""
@@ -31,15 +39,22 @@ def get_sectors():
     """)
 
 
+# ==========================================
+# Companies
+# ==========================================
+
 def get_companies():
 
     return query("""
-        SELECT DISTINCT
-            company_id
+        SELECT DISTINCT company_id
         FROM financial_ratios
         ORDER BY company_id
     """)
 
+
+# ==========================================
+# Peer Percentiles
+# ==========================================
 
 def get_peers():
 
@@ -49,9 +64,66 @@ def get_peers():
     """)
 
 
+# ==========================================
+# Market Cap
+# ==========================================
+
 def get_market_cap():
 
     return query("""
         SELECT *
         FROM market_cap
     """)
+
+
+# ==========================================
+# Peer Groups
+# ==========================================
+
+def get_peer_groups():
+
+    return query("""
+        SELECT DISTINCT
+            peer_group_name
+        FROM peer_groups
+        ORDER BY peer_group_name
+    """)
+
+
+# ==========================================
+# Peer Companies
+# ==========================================
+
+def get_peer_companies(group_name, year=2024):
+
+    sql = f"""
+        SELECT
+            pg.company_id,
+            pg.is_benchmark,
+
+            fr.return_on_equity_pct,
+            fr.return_on_capital_employed_pct,
+            fr.net_profit_margin_pct,
+            fr.pe_ratio,
+            fr.pb_ratio,
+            fr.debt_to_equity,
+            fr.operating_profit_margin_pct,
+            fr.revenue_cagr_5yr,
+            fr.pat_cagr_5yr,
+            fr.free_cash_flow
+
+        FROM peer_groups pg
+
+        INNER JOIN financial_ratios fr
+            ON pg.company_id = fr.company_id
+
+        WHERE
+            pg.peer_group_name = '{group_name}'
+            AND fr.merge_year = {year}
+
+        ORDER BY
+            pg.is_benchmark DESC,
+            fr.return_on_equity_pct DESC
+    """
+
+    return query(sql)
