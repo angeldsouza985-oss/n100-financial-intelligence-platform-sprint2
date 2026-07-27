@@ -7,6 +7,7 @@ from src.api.routers import companies
 from src.api.routers import screener
 from src.api.routers import peers
 from src.api.routers import valuation
+from src.api.routers import portfolio
 
 app = FastAPI(
     title="N100 Financial Intelligence API",
@@ -64,4 +65,9 @@ app.include_router(
     valuation.router,
     prefix="/api/v1",
     tags=["Valuation"]
+)
+app.include_router(
+    portfolio.router,
+    prefix="/api/v1",
+    tags=["Portfolio"]
 )
