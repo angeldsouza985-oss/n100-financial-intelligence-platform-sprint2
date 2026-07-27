@@ -38,7 +38,7 @@ WHERE fr.merge_year = 2024
 """, conn)
 
 conn.close()
-
+df["broad_sector"] = df["broad_sector"].fillna("Unknown")
 features = [
 
     "return_on_equity_pct",
