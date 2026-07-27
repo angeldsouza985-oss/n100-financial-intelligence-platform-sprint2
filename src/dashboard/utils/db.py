@@ -127,3 +127,41 @@ def get_peer_companies(group_name, year=2024):
     """
 
     return query(sql)
+
+@st.cache_data(ttl=600)
+def get_company_trend(company):
+
+    sql = f"""
+        SELECT *
+        FROM financial_ratios
+        WHERE company_id='{company}'
+        ORDER BY merge_year
+    """
+
+    return query(sql)
+
+@st.cache_data(ttl=600)
+def get_sector_data(year=2024):
+
+    sql = f"""
+        SELECT
+            s.broad_sector,
+            s.company_id,
+
+            fr.return_on_equity_pct,
+            fr.return_on_capital_employed_pct,
+            fr.net_profit_margin_pct,
+            fr.market_cap_crore,
+            fr.pe_ratio,
+            fr.pb_ratio,
+            fr.debt_to_equity
+
+        FROM sectors s
+
+        INNER JOIN financial_ratios fr
+            ON s.company_id = fr.company_id
+
+        WHERE fr.merge_year = {year}
+    """
+
+    return query(sql)
