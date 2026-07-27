@@ -4,6 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from src.api.routers import health
 from src.api.routers import companies
+from src.api.routers import screener
 
 app = FastAPI(
     title="N100 Financial Intelligence API",
@@ -46,4 +47,9 @@ app.include_router(
     companies.router,
     prefix="/api/v1",
     tags=["Companies"]
+)
+app.include_router(
+    screener.router,
+    prefix="/api/v1",
+    tags=["Screener"]
 )
