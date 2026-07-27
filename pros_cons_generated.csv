@@ -1,0 +1,373 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+ABB,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+ABB,Pro,P6,High interest coverage indicates low financial stress.,80
+ABB,Con,C0,Valuation and market conditions should continue to be monitored.,65
+ADANIENSOL,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+ADANIENSOL,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+ADANIENSOL,Pro,P5,Strong operating margins indicate pricing power.,82
+ADANIENSOL,Con,C1,Debt-to-equity ratio of 2.93 is elevated.,90
+ADANIENT,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+ADANIENT,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+ADANIGREEN,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+ADANIGREEN,Pro,P5,Strong operating margins indicate pricing power.,82
+ADANIGREEN,Con,C1,Debt-to-equity ratio of 6.60 is elevated.,90
+ADANIGREEN,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+ADANIGREEN,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+ADANIPORTS,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+ADANIPORTS,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+ADANIPORTS,Pro,P5,Strong operating margins indicate pricing power.,82
+ADANIPORTS,Con,C0,Valuation and market conditions should continue to be monitored.,65
+ADANIPOWER,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+ADANIPOWER,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+ADANIPOWER,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+ADANIPOWER,Pro,P5,Strong operating margins indicate pricing power.,82
+ADANIPOWER,Con,C0,Valuation and market conditions should continue to be monitored.,65
+AMBUJACEM,Pro,P6,High interest coverage indicates low financial stress.,80
+AMBUJACEM,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+AMBUJACEM,Con,C6,Revenue CAGR below 5% suggests limited growth.,75
+APOLLOHOSP,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+APOLLOHOSP,Con,C0,Valuation and market conditions should continue to be monitored.,65
+ASIANPAINT,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+ASIANPAINT,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+ASIANPAINT,Pro,P6,High interest coverage indicates low financial stress.,80
+ASIANPAINT,Con,C0,Valuation and market conditions should continue to be monitored.,65
+AXISBANK,Pro,P5,Strong operating margins indicate pricing power.,82
+AXISBANK,Con,C1,Debt-to-equity ratio of 8.25 is elevated.,90
+AXISBANK,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+AXISBANK,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+BAJAJ-AUTO,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+BAJAJ-AUTO,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+BAJAJ-AUTO,Pro,P6,High interest coverage indicates low financial stress.,80
+BAJAJ-AUTO,Con,C0,Valuation and market conditions should continue to be monitored.,65
+BAJAJFINSV,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+BAJAJFINSV,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+BAJAJFINSV,Pro,P5,Strong operating margins indicate pricing power.,82
+BAJAJFINSV,Con,C1,Debt-to-equity ratio of 4.79 is elevated.,90
+BAJAJFINSV,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+BAJAJHLDNG,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+BAJAJHLDNG,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+BAJAJHLDNG,Pro,P5,Strong operating margins indicate pricing power.,82
+BAJAJHLDNG,Pro,P6,High interest coverage indicates low financial stress.,80
+BAJAJHLDNG,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+BAJFINANCE,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+BAJFINANCE,Pro,P5,Strong operating margins indicate pricing power.,82
+BAJFINANCE,Pro,P6,High interest coverage indicates low financial stress.,80
+BAJFINANCE,Con,C1,Debt-to-equity ratio of 3.82 is elevated.,90
+BAJFINANCE,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+BAJFINANCE,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+BANKBARODA,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+BANKBARODA,Pro,P5,Strong operating margins indicate pricing power.,82
+BANKBARODA,Con,C1,Debt-to-equity ratio of 12.14 is elevated.,90
+BANKBARODA,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+BANKBARODA,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+BEL,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+BEL,Pro,P6,High interest coverage indicates low financial stress.,80
+BEL,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+BHARTIARTL,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+BHARTIARTL,Pro,P5,Strong operating margins indicate pricing power.,82
+BHARTIARTL,Con,C1,Debt-to-equity ratio of 2.61 is elevated.,90
+BHEL,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+BHEL,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+BHEL,Con,C6,Revenue CAGR below 5% suggests limited growth.,75
+BHEL,Pro,P0,Business maintains stable financial performance.,65
+BOSCHLTD,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+BOSCHLTD,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+BOSCHLTD,Pro,P6,High interest coverage indicates low financial stress.,80
+BOSCHLTD,Con,C0,Valuation and market conditions should continue to be monitored.,65
+BPCL,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+BPCL,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+BPCL,Pro,P6,High interest coverage indicates low financial stress.,80
+BPCL,Con,C0,Valuation and market conditions should continue to be monitored.,65
+BRITANNIA,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+BRITANNIA,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+BRITANNIA,Pro,P6,High interest coverage indicates low financial stress.,80
+BRITANNIA,Con,C0,Valuation and market conditions should continue to be monitored.,65
+CANBK,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+CANBK,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+CANBK,Pro,P5,Strong operating margins indicate pricing power.,82
+CANBK,Con,C1,Debt-to-equity ratio of 14.87 is elevated.,90
+CANBK,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+CHOLAFIN,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+CHOLAFIN,Pro,P5,Strong operating margins indicate pricing power.,82
+CHOLAFIN,Pro,P6,High interest coverage indicates low financial stress.,80
+CHOLAFIN,Con,C1,Debt-to-equity ratio of 6.86 is elevated.,90
+CHOLAFIN,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+CHOLAFIN,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+CIPLA,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+CIPLA,Pro,P5,Strong operating margins indicate pricing power.,82
+CIPLA,Pro,P6,High interest coverage indicates low financial stress.,80
+CIPLA,Con,C0,Valuation and market conditions should continue to be monitored.,65
+COALINDIA,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+COALINDIA,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+COALINDIA,Pro,P5,Strong operating margins indicate pricing power.,82
+COALINDIA,Pro,P6,High interest coverage indicates low financial stress.,80
+COALINDIA,Con,C0,Valuation and market conditions should continue to be monitored.,65
+DABUR,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+DABUR,Pro,P6,High interest coverage indicates low financial stress.,80
+DABUR,Con,C0,Valuation and market conditions should continue to be monitored.,65
+DIVISLAB,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+DIVISLAB,Pro,P5,Strong operating margins indicate pricing power.,82
+DIVISLAB,Pro,P6,High interest coverage indicates low financial stress.,80
+DIVISLAB,Con,C0,Valuation and market conditions should continue to be monitored.,65
+DLF,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+DLF,Pro,P5,Strong operating margins indicate pricing power.,82
+DLF,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+DLF,Con,C6,Revenue CAGR below 5% suggests limited growth.,75
+DMART,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+DMART,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+DMART,Pro,P6,High interest coverage indicates low financial stress.,80
+DMART,Con,C0,Valuation and market conditions should continue to be monitored.,65
+DRREDDY,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+DRREDDY,Pro,P5,Strong operating margins indicate pricing power.,82
+DRREDDY,Pro,P6,High interest coverage indicates low financial stress.,80
+DRREDDY,Con,C0,Valuation and market conditions should continue to be monitored.,65
+EICHERMOT,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+EICHERMOT,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+EICHERMOT,Pro,P5,Strong operating margins indicate pricing power.,82
+EICHERMOT,Pro,P6,High interest coverage indicates low financial stress.,80
+EICHERMOT,Con,C0,Valuation and market conditions should continue to be monitored.,65
+GAIL,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+GAIL,Pro,P6,High interest coverage indicates low financial stress.,80
+GAIL,Con,C0,Valuation and market conditions should continue to be monitored.,65
+GODREJCP,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+GODREJCP,Con,C3,Company reported a net loss in the latest year.,95
+GODREJCP,Pro,P0,Business maintains stable financial performance.,65
+GRASIM,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+GRASIM,Pro,P0,Business maintains stable financial performance.,65
+HAL,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+HAL,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+HAL,Pro,P5,Strong operating margins indicate pricing power.,82
+HAL,Pro,P6,High interest coverage indicates low financial stress.,80
+HAL,Con,C0,Valuation and market conditions should continue to be monitored.,65
+HAVELLS,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+HAVELLS,Pro,P6,High interest coverage indicates low financial stress.,80
+HAVELLS,Con,C0,Valuation and market conditions should continue to be monitored.,65
+HCLTECH,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+HCLTECH,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+HCLTECH,Pro,P6,High interest coverage indicates low financial stress.,80
+HCLTECH,Con,C0,Valuation and market conditions should continue to be monitored.,65
+HDFCBANK,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+HDFCBANK,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+HDFCBANK,Pro,P5,Strong operating margins indicate pricing power.,82
+HDFCBANK,Con,C1,Debt-to-equity ratio of 6.81 is elevated.,90
+HDFCBANK,Con,C4,Interest coverage below 1.5x increases financial risk.,90
+HDFCBANK,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+HDFCLIFE,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+HDFCLIFE,Pro,P5,Strong operating margins indicate pricing power.,82
+HDFCLIFE,Pro,P6,High interest coverage indicates low financial stress.,80
+HDFCLIFE,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+HEROMOTOCO,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+HEROMOTOCO,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+HEROMOTOCO,Pro,P5,Strong operating margins indicate pricing power.,82
+HEROMOTOCO,Pro,P6,High interest coverage indicates low financial stress.,80
+HEROMOTOCO,Con,C6,Revenue CAGR below 5% suggests limited growth.,75
+HINDALCO,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+HINDALCO,Pro,P5,Strong operating margins indicate pricing power.,82
+HINDALCO,Pro,P6,High interest coverage indicates low financial stress.,80
+HINDALCO,Con,C0,Valuation and market conditions should continue to be monitored.,65
+HINDUNILVR,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+HINDUNILVR,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+HINDUNILVR,Pro,P5,Strong operating margins indicate pricing power.,82
+HINDUNILVR,Pro,P6,High interest coverage indicates low financial stress.,80
+HINDUNILVR,Con,C0,Valuation and market conditions should continue to be monitored.,65
+ICICIBANK,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+ICICIBANK,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+ICICIBANK,Pro,P5,Strong operating margins indicate pricing power.,82
+ICICIBANK,Con,C1,Debt-to-equity ratio of 6.45 is elevated.,90
+ICICIBANK,Con,C4,Interest coverage below 1.5x increases financial risk.,90
+ICICIBANK,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+ICICIGI,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+ICICIGI,Pro,P5,Strong operating margins indicate pricing power.,82
+ICICIGI,Pro,P6,High interest coverage indicates low financial stress.,80
+ICICIGI,Con,C0,Valuation and market conditions should continue to be monitored.,65
+ICICIPRULI,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+ICICIPRULI,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+ICICIPRULI,Pro,P5,Strong operating margins indicate pricing power.,82
+ICICIPRULI,Pro,P6,High interest coverage indicates low financial stress.,80
+ICICIPRULI,Con,C0,Valuation and market conditions should continue to be monitored.,65
+INDIGO,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+INDIGO,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+INDIGO,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+INDIGO,Pro,P5,Strong operating margins indicate pricing power.,82
+INDIGO,Pro,P6,High interest coverage indicates low financial stress.,80
+INDIGO,Con,C0,Valuation and market conditions should continue to be monitored.,65
+INDUSINDBK,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+INDUSINDBK,Pro,P5,Strong operating margins indicate pricing power.,82
+INDUSINDBK,Con,C1,Debt-to-equity ratio of 6.89 is elevated.,90
+INDUSINDBK,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+INDUSINDBK,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+INFY,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+INFY,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+INFY,Pro,P6,High interest coverage indicates low financial stress.,80
+INFY,Con,C0,Valuation and market conditions should continue to be monitored.,65
+IOC,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+IOC,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+IOC,Pro,P6,High interest coverage indicates low financial stress.,80
+IOC,Con,C0,Valuation and market conditions should continue to be monitored.,65
+IRCTC,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+IRCTC,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+IRCTC,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+IRCTC,Pro,P5,Strong operating margins indicate pricing power.,82
+IRCTC,Pro,P6,High interest coverage indicates low financial stress.,80
+IRCTC,Con,C0,Valuation and market conditions should continue to be monitored.,65
+IRFC,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+IRFC,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+IRFC,Pro,P5,Strong operating margins indicate pricing power.,82
+IRFC,Con,C1,Debt-to-equity ratio of 8.38 is elevated.,90
+IRFC,Con,C4,Interest coverage below 1.5x increases financial risk.,90
+IRFC,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+ITC,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+ITC,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+ITC,Pro,P5,Strong operating margins indicate pricing power.,82
+ITC,Pro,P6,High interest coverage indicates low financial stress.,80
+ITC,Con,C0,Valuation and market conditions should continue to be monitored.,65
+JINDALSTEL,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+JINDALSTEL,Con,C6,Revenue CAGR below 5% suggests limited growth.,75
+JINDALSTEL,Pro,P0,Business maintains stable financial performance.,65
+JIOFIN,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+JIOFIN,Pro,P3,Debt-free balance sheet provides financial flexibility.,95
+JIOFIN,Pro,P5,Strong operating margins indicate pricing power.,82
+JIOFIN,Pro,P6,High interest coverage indicates low financial stress.,80
+JIOFIN,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+JSWENERGY,Pro,P5,Strong operating margins indicate pricing power.,82
+JSWENERGY,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+JSWENERGY,Con,C6,Revenue CAGR below 5% suggests limited growth.,75
+JSWSTEEL,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+JSWSTEEL,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+KOTAKBANK,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+KOTAKBANK,Pro,P5,Strong operating margins indicate pricing power.,82
+KOTAKBANK,Con,C1,Debt-to-equity ratio of 4.00 is elevated.,90
+KOTAKBANK,Con,C4,Interest coverage below 1.5x increases financial risk.,90
+KOTAKBANK,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+LICI,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+LICI,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+LICI,Pro,P3,Debt-free balance sheet provides financial flexibility.,95
+LICI,Pro,P6,High interest coverage indicates low financial stress.,80
+LICI,Con,C0,Valuation and market conditions should continue to be monitored.,65
+LODHA,Pro,P5,Strong operating margins indicate pricing power.,82
+LODHA,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+LODHA,Con,C6,Revenue CAGR below 5% suggests limited growth.,75
+LT,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+LT,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+LT,Con,C0,Valuation and market conditions should continue to be monitored.,65
+LTIM,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+LTIM,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+LTIM,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+LTIM,Pro,P6,High interest coverage indicates low financial stress.,80
+LTIM,Con,C0,Valuation and market conditions should continue to be monitored.,65
+M&M,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+M&M,Pro,P0,Business maintains stable financial performance.,65
+MARUTI,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+MARUTI,Pro,P6,High interest coverage indicates low financial stress.,80
+MARUTI,Con,C0,Valuation and market conditions should continue to be monitored.,65
+MOTHERSON,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+MOTHERSON,Con,C0,Valuation and market conditions should continue to be monitored.,65
+NAUKRI,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+NAUKRI,Pro,P5,Strong operating margins indicate pricing power.,82
+NAUKRI,Pro,P6,High interest coverage indicates low financial stress.,80
+NAUKRI,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+NAUKRI,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+NESTLEIND,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+NESTLEIND,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+NESTLEIND,Pro,P6,High interest coverage indicates low financial stress.,80
+NESTLEIND,Con,C0,Valuation and market conditions should continue to be monitored.,65
+NHPC,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+NHPC,Pro,P5,Strong operating margins indicate pricing power.,82
+NHPC,Pro,P6,High interest coverage indicates low financial stress.,80
+NHPC,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+NHPC,Con,C6,Revenue CAGR below 5% suggests limited growth.,75
+NTPC,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+NTPC,Pro,P5,Strong operating margins indicate pricing power.,82
+NTPC,Con,C0,Valuation and market conditions should continue to be monitored.,65
+ONGC,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+ONGC,Pro,P6,High interest coverage indicates low financial stress.,80
+ONGC,Con,C0,Valuation and market conditions should continue to be monitored.,65
+PFC,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+PFC,Pro,P5,Strong operating margins indicate pricing power.,82
+PFC,Con,C1,Debt-to-equity ratio of 8.52 is elevated.,90
+PFC,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+PFC,Con,C4,Interest coverage below 1.5x increases financial risk.,90
+PFC,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+PIDILITIND,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+PIDILITIND,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+PIDILITIND,Pro,P6,High interest coverage indicates low financial stress.,80
+PIDILITIND,Con,C0,Valuation and market conditions should continue to be monitored.,65
+PNB,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+PNB,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+PNB,Con,C1,Debt-to-equity ratio of 3.68 is elevated.,90
+PNB,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+POWERGRID,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+POWERGRID,Pro,P5,Strong operating margins indicate pricing power.,82
+POWERGRID,Con,C0,Valuation and market conditions should continue to be monitored.,65
+RECLTD,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+RECLTD,Pro,P5,Strong operating margins indicate pricing power.,82
+RECLTD,Con,C1,Debt-to-equity ratio of 6.42 is elevated.,90
+RECLTD,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+RECLTD,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+RELIANCE,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+RELIANCE,Con,C0,Valuation and market conditions should continue to be monitored.,65
+SBILIFE,Pro,P3,Debt-free balance sheet provides financial flexibility.,95
+SBILIFE,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+SBILIFE,Pro,P6,High interest coverage indicates low financial stress.,80
+SBILIFE,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+SBILIFE,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+SHREECEM,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+SHREECEM,Pro,P6,High interest coverage indicates low financial stress.,80
+SHREECEM,Con,C0,Valuation and market conditions should continue to be monitored.,65
+SHRIRAMFIN,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+SHRIRAMFIN,Pro,P5,Strong operating margins indicate pricing power.,82
+SHRIRAMFIN,Con,C1,Debt-to-equity ratio of 3.99 is elevated.,90
+SHRIRAMFIN,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+SHRIRAMFIN,Con,C4,Interest coverage below 1.5x increases financial risk.,90
+SHRIRAMFIN,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
+SIEMENS,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+SIEMENS,Pro,P6,High interest coverage indicates low financial stress.,80
+SIEMENS,Con,C0,Valuation and market conditions should continue to be monitored.,65
+SUNPHARMA,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+SUNPHARMA,Pro,P5,Strong operating margins indicate pricing power.,82
+SUNPHARMA,Pro,P6,High interest coverage indicates low financial stress.,80
+SUNPHARMA,Con,C0,Valuation and market conditions should continue to be monitored.,65
+TATACONSUM,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+TATACONSUM,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+TATACONSUM,Pro,P6,High interest coverage indicates low financial stress.,80
+TATACONSUM,Con,C0,Valuation and market conditions should continue to be monitored.,65
+TATAMOTORS,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+TATAMOTORS,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+TATAMOTORS,Con,C0,Valuation and market conditions should continue to be monitored.,65
+TATAPOWER,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+TATAPOWER,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+TATAPOWER,Con,C0,Valuation and market conditions should continue to be monitored.,65
+TATASTEEL,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+TATASTEEL,Con,C3,Company reported a net loss in the latest year.,95
+TCS,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+TCS,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+TCS,Pro,P5,Strong operating margins indicate pricing power.,82
+TCS,Pro,P6,High interest coverage indicates low financial stress.,80
+TCS,Con,C0,Valuation and market conditions should continue to be monitored.,65
+TECHM,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+TECHM,Pro,P6,High interest coverage indicates low financial stress.,80
+TECHM,Con,C0,Valuation and market conditions should continue to be monitored.,65
+TITAN,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+TITAN,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+TITAN,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+TITAN,Con,C0,Valuation and market conditions should continue to be monitored.,65
+TORNTPHARM,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+TORNTPHARM,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+TORNTPHARM,Pro,P5,Strong operating margins indicate pricing power.,82
+TORNTPHARM,Con,C0,Valuation and market conditions should continue to be monitored.,65
+TRENT,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+TRENT,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+TRENT,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+TRENT,Con,C0,Valuation and market conditions should continue to be monitored.,65
+TVSMOTOR,Pro,P1,Consistently high return on equity demonstrates strong capital efficiency.,90
+TVSMOTOR,Con,C1,Debt-to-equity ratio of 3.83 is elevated.,90
+TVSMOTOR,Con,C2,Negative free cash flow raises concerns over cash generation.,85
+ULTRACEMCO,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+ULTRACEMCO,Pro,P6,High interest coverage indicates low financial stress.,80
+ULTRACEMCO,Con,C0,Valuation and market conditions should continue to be monitored.,65
+UNIONBANK,Pro,P2,Positive free cash flow indicates healthy cash generation.,85
+UNIONBANK,Pro,P4,Revenue CAGR above 15% reflects strong business momentum.,88
+UNIONBANK,Con,C1,Debt-to-equity ratio of 12.82 is elevated.,90
+UNIONBANK,Con,C4,Interest coverage below 1.5x increases financial risk.,90
+UNIONBANK,Con,C5,ROCE below 10% indicates weak capital efficiency.,80
